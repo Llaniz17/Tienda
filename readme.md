@@ -4,9 +4,9 @@ Esta es una base para una aplicación de tienda online desarrollada en React Nat
 ## Instalación
 Para ejecutar esta aplicación en tu entorno local, sigue estos pasos:
 
-Clona este repositorio a tu máquina local.
-Navega al directorio del proyecto en tu terminal.
-Ejecuta npm install para instalar todas las dependencias.
+- Clona este repositorio a tu máquina local.
+- Navega al directorio del proyecto en tu terminal.
+- Ejecuta npm install para instalar todas las dependencias.
 
 ## Uso
 Una vez que hayas instalado las dependencias y configurado las credenciales de autenticación, puedes ejecutar la aplicación utilizando el siguiente comando:
